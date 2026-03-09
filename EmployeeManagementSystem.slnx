@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="EmpMangeSys.CORE/EmpMangSys.Core.csproj" />
-  <Project Path="EmpMangSys.API/EmpMangSys.Api.csproj" />
-  <Project Path="EmpMangSys.Repository/EmpMangSys.Repository.csproj" />
-</Solution>
